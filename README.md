@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sachin6061
-- 👀 I’m interested in developing python projects ...
-- 🌱 I’m currently learning Data science...
 - 📫 How to reach me  sdhalave6061@gmail.com
 
 <!---
